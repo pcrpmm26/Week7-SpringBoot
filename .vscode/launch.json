@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Test1Application<test1>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "nvc.it.test1.Test1Application",
+            "projectName": "test1",
+            "args": ""
+        }
+    ]
+}
